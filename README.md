@@ -64,81 +64,160 @@ WALKING_UPSTAIRS
 
 
 tBodyAcc-mean()-X: -1.0000< x < 1.0000 
+
 tBodyAcc-mean()-Y: -1.0000< x < 1.0000 
+
 tBodyAcc-mean()-Z: -1.0000< x < 1.0000 
+
 tBodyAcc-std()-X: -1.0000< x < 1.0000 
+
 tBodyAcc-std()-Y: -1.0000< x < 1.0000 
+
 tBodyAcc-std()-Z: -1.0000< x < 1.0000 
+
 tGravityAcc-mean()-X: -1.0000< x < 1.0000 
+
 tGravityAcc-mean()-Y: -1.0000< x < 1.0000 
+
 tGravityAcc-mean()-Z: -1.0000< x < 1.0000 
+
 tGravityAcc-std()-X: -1.0000< x < 1.0000 
+
 tGravityAcc-std()-Y: -1.0000< x < 1.0000 
+
 tGravityAcc-std()-Z: -1.0000< x < 1.0000 
+
 tBodyAccJerk-mean()-X: -1.0000< x < 1.0000 
+
 tBodyAccJerk-mean()-Y: -1.0000< x < 1.0000 
+
 tBodyAccJerk-mean()-Z: -1.0000< x < 1.0000 
+
 tBodyAccJerk-std()-X: -1.0000< x < 1.0000 
+
 tBodyAccJerk-std()-Y: -1.0000< x < 1.0000 
+
 tBodyAccJerk-std()-Z: -1.0000< x < 1.0000 
+
 tBodyGyro-mean()-X: -1.0000< x < 1.0000 
+
 tBodyGyro-mean()-Y: -1.0000< x < 1.0000 
+
 tBodyGyro-mean()-Z: -1.0000< x < 1.0000 
+
 tBodyGyro-std()-X: -1.0000< x < 1.0000 
+
 tBodyGyro-std()-Y: -1.0000< x < 1.0000 
+
 tBodyGyro-std()-Z: -1.0000< x < 1.0000 
+
 tBodyGyroJerk-mean()-X: -1.0000< x < 1.0000 
+
 tBodyGyroJerk-mean()-Y: -1.0000< x < 1.0000 
+
 tBodyGyroJerk-mean()-Z: -1.0000< x < 1.0000 
+
 tBodyGyroJerk-std()-X: -1.0000< x < 1.0000 
+
 tBodyGyroJerk-std()-Y: -1.0000< x < 1.0000 
+
 tBodyGyroJerk-std()-Z: -1.0000< x < 1.0000 
+
 tBodyAccMag-mean(): -1.0000< x < 1.0000 
+
 tBodyAccMag-std(): -1.0000< x < 1.0000 
+
 tGravityAccMag-mean(): -1.0000< x < 1.0000 
+
 tGravityAccMag-std(): -1.0000< x < 1.0000 
+
 tBodyAccJerkMag-mean(): -1.0000< x < 1.0000 
+
 tBodyAccJerkMag-std(): -1.0000< x < 1.0000 
+
 tBodyGyroMag-mean(): -1.0000< x < 1.0000 
+
 tBodyGyroMag-std(): -1.0000< x < 1.0000 
+
 tBodyGyroJerkMag-mean(): -1.0000< x < 1.0000 
+
 tBodyGyroJerkMag-std(): -1.0000< x < 1.0000 
+
 fBodyAcc-mean()-X: -1.0000< x < 1.0000 
+
 fBodyAcc-mean()-Y: -1.0000< x < 1.0000 
+
 fBodyAcc-mean()-Z: -1.0000< x < 1.0000 
+
 fBodyAcc-std()-X: -1.0000< x < 1.0000 
+
 fBodyAcc-std()-Y: -1.0000< x < 1.0000 
+
 fBodyAcc-std()-Z: -1.0000< x < 1.0000 
+
 fBodyAcc-meanFreq()-X: -1.0000< x < 1.0000 
+
 fBodyAcc-meanFreq()-Y: -1.0000< x < 1.0000 
+
 fBodyAcc-meanFreq()-Z: -1.0000< x < 1.0000 
+
 fBodyAccJerk-mean()-X: -1.0000< x < 1.0000 
+
 fBodyAccJerk-mean()-Y: -1.0000< x < 1.0000 
+
 fBodyAccJerk-mean()-Z: -1.0000< x < 1.0000 
+
 fBodyAccJerk-std()-X: -1.0000< x < 1.0000 
+
 fBodyAccJerk-std()-Y: -1.0000< x < 1.0000 
+
 fBodyAccJerk-std()-Z: -1.0000< x < 1.0000 
+
 fBodyAccJerk-meanFreq()-X: -1.0000< x < 1.0000 
+
 fBodyAccJerk-meanFreq()-Y: -1.0000< x < 1.0000 
+
 fBodyAccJerk-meanFreq()-Z: -1.0000< x < 1.0000 
+
 fBodyGyro-mean()-X: -1.0000< x < 1.0000 
+
 fBodyGyro-mean()-Y: -1.0000< x < 1.0000 
+
 fBodyGyro-mean()-Z: -1.0000< x < 1.0000 
+
 fBodyGyro-std()-X: -1.0000< x < 1.0000 
+
 fBodyGyro-std()-Y: -1.0000< x < 1.0000 
+
 fBodyGyro-std()-Z: -1.0000< x < 1.0000 
+
 fBodyGyro-meanFreq()-X: -1.0000< x < 1.0000 
+
 fBodyGyro-meanFreq()-Y: -1.0000< x < 1.0000 
+
 fBodyGyro-meanFreq()-Z: -1.0000< x < 1.0000 
+
 fBodyAccMag-mean(): -1.0000< x < 1.0000 
+
 fBodyAccMag-std(): -1.0000< x < 1.0000 
+
 fBodyAccMag-meanFreq(): -1.0000< x < 1.0000 
+
 fBodyBodyAccJerkMag-mean(): -1.0000< x < 1.0000 
+
 fBodyBodyAccJerkMag-std(): -1.0000< x < 1.0000 
+
 fBodyBodyAccJerkMag-meanFreq(): -1.0000< x < 1.0000 
+
 fBodyBodyGyroMag-mean(): -1.0000< x < 1.0000 
+
 fBodyBodyGyroMag-std(): -1.0000< x < 1.0000 
+
 fBodyBodyGyroMag-meanFreq(): -1.0000< x < 1.0000 
+
 fBodyBodyGyroJerkMag-mean(): -1.0000< x < 1.0000 
+
 fBodyBodyGyroJerkMag-std(): -1.0000< x < 1.0000 
+
 fBodyBodyGyroJerkMag-meanFreq(): -1.0000< x < 1.0000 
+
